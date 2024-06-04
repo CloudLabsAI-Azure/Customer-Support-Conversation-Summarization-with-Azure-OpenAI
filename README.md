@@ -10,6 +10,18 @@ In this hands-on lab, you’ll learn how to generate summaries of customer-agent
 
 ![Architechture Diagram](media/architechture-diagram.png)
 
+## Understanding Azure's AI Language Service 
+
+Azure AI Language Service is a managed cloud service that simplifies the development of natural language processing (NLP) applications. With minimal machine-learning expertise required, it allows users to: 
+
+- **Identify Key Terms and Phrases:** Quickly extract significant words and expressions from text.
+  
+- **Analyze Sentiment:** Determine the emotional tone behind words to understand the context better.
+  
+- **Summarize Text:** Condense long documents into shorter, digestible summaries using both extractive and abstractive techniques.
+   
+- **Build Conversational Interfaces:** Create intelligent chatbots and virtual assistants that can engage with users naturally. 
+
 ## Key Features
 
 - **Extractive summarization:** Produces a summary by extracting salient sentences within the document.
