@@ -66,4 +66,20 @@
     Agent: You're very welcome! If you have any other questions or concerns in the future, don't hesitate to contact us. Have a wonderful day!
     ```
 
+13. Select **Both** for Summary Types to get both the Extractive and Abstractive summarization.
+
+14. Check the box to acknowledge and click on **Run**.
+
+15. Once the model runs successfully, you will get both the extractive and abstractive summaries for the customer-agent conversarion on the **Result** tab based on the selected number of sentences in summary.
+
+    ![](media/conversation-result.png)
+
+17. Review the **Rank Score** of the sentences under Original text.
+
+    ![](media/orginal-text-rank-score.png)
+
+18. You can also review the extractive and abstractive results in JSON foramt on the **JSON** tab.
+
+    ![](media/json-tab.png)
+
 
