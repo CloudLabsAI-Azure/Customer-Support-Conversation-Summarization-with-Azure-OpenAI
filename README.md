@@ -22,6 +22,13 @@ In this hands-on lab, you’ll learn how to generate summaries of customer-agent
 
 - **Abstractive summarization:** Generates a summary that doesn't use the same words as in the document but captures the main idea.
 
+- **Summary texts:** Abstractive summarization returns a summary for each contextual input range within the document. A long document can be segmented so multiple groups of summary texts can be returned with their contextual input range. 
+
+- **Contextual input range:** The range within the input document used to generate the summary text. 
+
 ## Lab Overview
 
 In this Hands-on-lab, you will perform the following tasks.
+
+- Provision Azure AI Language Service
+- Summarize the customer-agent conversation in Azure AI Language Studio
