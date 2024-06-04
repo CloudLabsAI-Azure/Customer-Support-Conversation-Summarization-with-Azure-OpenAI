@@ -9,3 +9,19 @@ In this hands-on lab, you’ll learn how to generate summaries of customer-agent
 ## Architechture Diagram
 
 ![Architechture Diagram](media/architechture-diagram.png)
+
+## Key Features
+
+- **Extractive summarization:** Produces a summary by extracting salient sentences within the document.
+
+- **Multiple extracted sentences:** These sentences collectively convey the main idea of the document. They're original sentences extracted from the input document's content. 
+
+- **Rank score:** The rank score indicates how relevant a sentence is to a document's main topic. Document summarization ranks extracted sentences, and you can determine whether they're returned in the order they appear, or according to their rank. 
+
+- **Multiple returned sentences:** Determine the maximum number of sentences to be returned. For example, if you request a three-sentence summary extractive summarization returns the three highest scored sentences.
+
+- **Abstractive summarization:** Generates a summary that doesn't use the same words as in the document but captures the main idea.
+
+## Lab Overview
+
+In this Hands-on-lab, you will perform the following tasks.
