@@ -10,7 +10,7 @@
 
 3. On the **Select additional features** blade, under **Custom features** settings, select **Custom text classification, Custom named entity recognition, Custom summarization, Custom sentiment analysis & Custom Text Analytics for health** and click on **Continue to create your resource**.
 
-   ![](../media/azure-ai-language-create.png)
+   ![](../media/azure-ai-language-create00.png)
   
 4. On the **Create Language** blade, under the **Basics** tab, enter the following details, click on **Review + create** and then **Create**.
 
@@ -30,4 +30,4 @@
    
 6. Wait for the deployment to succeed. Once the deployment is succeeded, click on **Go to resource group**.
 
-   ![](../media/go-to-rg.png)
+   ![](../media/go-to-rg-01.png)
