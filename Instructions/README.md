@@ -46,3 +46,5 @@ In this Hands-on-lab, you will perform the following tasks.
 - Summarize the customer-agent conversation in Azure AI Language Studio
 - Provision Azure AI Speech Service
 - Analyze sentences and Call Summary of audio recordings in Azure AI Speech Studio
+
+Seize the opportunity to blend technology and strategy, unlocking the potential of Azure AI Language and Speech Services to analyze and summarize the customer-agent conversations.
