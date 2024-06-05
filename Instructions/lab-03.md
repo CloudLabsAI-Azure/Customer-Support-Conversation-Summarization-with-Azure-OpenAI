@@ -18,6 +18,6 @@
   
    ![](../media/speech-service-create.png)
 
-6. Wait for the deployment to succeed. Once the depployment is succeeded, click on **Go to resource**.
+6. Wait for the deployment to succeed. Once the deployment is succeeded, click on **Go to resource**.
 
    ![](../media/speech-go-to-resource.png)
