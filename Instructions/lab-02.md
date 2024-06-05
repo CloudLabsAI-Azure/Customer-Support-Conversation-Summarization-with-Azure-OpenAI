@@ -1,6 +1,6 @@
 # Task 02 - Summarize the customer-agent conversation in Azure AI Language Studio
 
-1. In the Azure portal, on the resource group blade, navigate to the **customer-summarization-DID** Language service.
+1. In the Azure portal, on the resource group blade, navigate to the **language-service-DID** Language service.
 
 2. On the Language service Overview pane, under **Get Started**, select **Get started with Language Studio**.
 
@@ -50,14 +50,14 @@
 
 9. Once the model runs successfully, you will get both the extractive and abstractive summaries for the customer-agent conversarion on the **Result** tab based on the selected number of sentences in summary.
 
-   ![](media/conversation-result.png)
+   ![](../media/conversation-result.png)
 
 10. Review the **Rank Score** of the sentences under Original text.
 
-    ![](media/orginal-text-rank-score.png)
+    ![](../media/orginal-text-rank-score.png)
 
 11. You can also review the extractive and abstractive results in JSON foramt on the **JSON** tab.
 
-    ![](media/json-tab.png)
+    ![](../media/json-tab.png)
 
 
