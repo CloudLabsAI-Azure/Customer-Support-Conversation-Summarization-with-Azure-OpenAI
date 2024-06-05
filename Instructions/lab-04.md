@@ -2,6 +2,8 @@
 
 1. In the Azure portal, on the resource group blade, navigate to the **speech-service-DID** Speech service.
 
+   ![](../media/navigate-speech-service.png)
+
 2. On the Speech service Overview pane, under **Get Started**, select **Go to Speech Studio**.
 
    ![](../media/speech-service-did.png)
