@@ -27,6 +27,16 @@ You can use Microsoft's **Azure AI Language** to build natural language processi
 
 Microsoft's **Azure AI Speech** is another service that can be used to build natural language processing solutions. Azure AI Speech features include speech recognition and synthesis, real-time translations, conversation transcriptions, and more.
 
+## Key features for conversation summarization
+
+Conversation summarization supports the following features:
+
+- **Issue/resolution summarization:** A call center specific feature that gives a summary of issues and resolutions in conversations between customer-service agents and your customers.
+- **Chapter title summarization:** Segments a conversation into chapters based on the topics discussed in the conversation, and gives suggested chapter titles of the input conversation.
+- **Recap:** Summarizes a conversation into a brief paragraph.
+- **Narrative summarization:** Generates detail call notes, meeting notes or chat summaries of the input conversation.
+- **Follow-up tasks:** Gives a list of follow-up tasks discussed in the input conversation.
+
 ## Lab Overview
 
 In this Hands-on-lab, you will perform the following tasks.
