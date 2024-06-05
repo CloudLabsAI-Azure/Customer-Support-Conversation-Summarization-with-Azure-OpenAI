@@ -2,17 +2,35 @@
 
 1. In the Azure portal, on the resource group blade, navigate to the **language-service-DID** Language service.
 
+   ![](../media/navigate-language-service.png)
+
 2. On the Language service Overview pane, under **Get Started**, select **Get started with Language Studio**.
+
+   ![](../media/language-get-started.png)
 
 3. The Language Studio opens up in a new tab, in the **Select an Azure resource**, for the Resource name dropdown, select your language service and click on **Done**.
 
-    - **Note:** Leave the Azure diectory, Azure subscription and Resource type as default.
-  
-4. In your Azure AI Language Studio, in the **Featured** tab, select **Try it now** for the **Summarize information**.
+   >**Note:** Sign in to Language Studio using your Azure credentials from the **Environmnet** tab if not signed-in already.
+    
+   >**Note:** Leave the Azure diectory, Azure subscription and Resource type as default.
 
-5. On the **Summarize information** blade, under the **Documents** tab, select your preferred language, azure resource that you deployed, number of sentences you prefer in summary and specify your summary interest.
+   ![](../media/language-studio-select.png)
 
-6. In the text box, copy and paste the below conversation between a customer and an agent. The conversation is about a customer having trouble accessing their account, verifying their identity, troubleshooting, and successfully resolving the issue.
+   - If you don't get the Select an Azure Resource pop-up, then click on **Select a resource** in your Language Studio.
+
+   ![](../media/language-studio-select01.png)
+   
+5. In your Azure AI Language Studio, in the **Featured** tab, select **Try it now** for the **Summarize information**.
+
+   ![](../media/language-summarize-info.png)
+
+6. On the **Summarize information** blade, under the **Documents** tab, select your preferred language, azure resource that you deployed, number of sentences you prefer in summary and specify your summary interest.
+
+   ![](../media/language-summarize-info01.png)
+
+7. In the text box, copy and paste the below conversation between a customer and an agent. The conversation is about a customer having trouble accessing their account, verifying their identity, troubleshooting, and successfully resolving the issue.
+
+   >**Note:** Select **Both** for Summary Types to get both the Extractive and Abstractive summarization.
 
    ```
    Agent: Hi there! Thank you for contacting us today. How can I assist you?
@@ -44,9 +62,11 @@
    Agent: You're very welcome! If you have any other questions or concerns in the future, don't hesitate to contact us. Have a wonderful day!
    ```
 
-7. Select **Both** for Summary Types to get both the Extractive and Abstractive summarization.
+   ![](../media/language-text-box.png)
 
 8. Check the box to acknowledge and click on **Run**.
+
+   ![](../media/language-acknowledge.png)
 
 9. Once the model runs successfully, you will get both the extractive and abstractive summaries for the customer-agent conversarion on the **Result** tab based on the selected number of sentences in summary.
 
