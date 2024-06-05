@@ -14,7 +14,7 @@
     
    >**Note:** Leave the Azure diectory, Azure subscription and Resource type as default.
 
-   ![](../media/language-studio-select.png)
+   ![](../media/language-studio-select00.png)
 
    - If you don't get the Select an Azure Resource pop-up, then click on **Select a resource** in your Language Studio.
 
