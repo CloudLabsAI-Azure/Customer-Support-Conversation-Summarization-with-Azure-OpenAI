@@ -44,3 +44,5 @@ In this Hands-on-lab, you will perform the following tasks.
 
 - Provision Azure AI Language Service
 - Summarize the customer-agent conversation in Azure AI Language Studio
+- Provision Azure AI Speech Service
+- Analyze sentences and Call Summary of audio recordings in Azure AI Speech Studio
