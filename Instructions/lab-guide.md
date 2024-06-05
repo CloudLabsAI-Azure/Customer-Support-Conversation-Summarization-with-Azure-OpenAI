@@ -2,7 +2,7 @@
 
 ## Task 01 - Provision Azure AI Language Service
 
-1. In the Azure portal, search for **Azure AI (1)** and select **Azure AI Services (2)** from the services list.
+1. In the Azure portal, search for **Azure AI services (1)** and select **Azure AI Services (2)** from the services list.
 
    ![](../media/azure-ai.png)
 
