@@ -13,12 +13,12 @@
    - Subscription: Select your Default Subscription
    - Resource group:
    - Region: Select your Default Region
-   - Name: customer-summarization-DID
+   - Name: language-service-DID
    - Pricing tier:
    - New/Existing storage account: New storage account
    - Storage account name:
    - Storage account type: Standard LRS
    - Check the box for the Responsible AI Notice
 
-6. Wait for the deployment to succeed. Once the depployment is succeeded, click on **Go to resource group**.
+6. Wait for the deployment to succeed. Once the deployment is succeeded, click on **Go to resource group**.
 
