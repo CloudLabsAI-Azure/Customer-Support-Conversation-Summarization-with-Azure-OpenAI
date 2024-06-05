@@ -10,33 +10,22 @@ In this hands-on lab, you’ll learn how to generate summaries of customer-agent
 
 ![Architechture Diagram](../media/architechture-diagram.png)
 
-## Understanding Azure's AI Language Service 
+## Understand natural language processing
 
-Azure AI Language Service is a managed cloud service that simplifies the development of natural language processing (NLP) applications. With minimal machine-learning expertise required, it allows users to: 
+Natural language processing (NLP) is the area of AI that deals with creating software that understands written and spoken language.
 
-- **Identify Key Terms and Phrases:** Quickly extract significant words and expressions from text.
-  
-- **Analyze Sentiment:** Determine the emotional tone behind words to understand the context better.
-  
-- **Summarize Text:** Condense long documents into shorter, digestible summaries using both extractive and abstractive techniques.
-   
-- **Build Conversational Interfaces:** Create intelligent chatbots and virtual assistants that can engage with users naturally. 
+NLP enables you to create software that can:
 
-## Key Features
+- Analyze and interpret text in documents, email messages, and other sources.
+- Interpret spoken language, and synthesize speech responses.
+- Automatically translate spoken or written phrases between languages.
+- Interpret commands and determine appropriate actions.
 
-- **Extractive summarization:** Produces a summary by extracting salient sentences within the document.
+## Natural language processing in Microsoft Azure
 
-- **Multiple extracted sentences:** These sentences collectively convey the main idea of the document. They're original sentences extracted from the input document's content. 
+You can use Microsoft's **Azure AI Language** to build natural language processing solutions. Some features of Azure AI Language include understanding and analyzing text, training conversational language models that can understand spoken or text-based commands, and building intelligent applications.
 
-- **Rank score:** The rank score indicates how relevant a sentence is to a document's main topic. Document summarization ranks extracted sentences, and you can determine whether they're returned in the order they appear, or according to their rank. 
-
-- **Multiple returned sentences:** Determine the maximum number of sentences to be returned. For example, if you request a three-sentence summary extractive summarization returns the three highest scored sentences.
-
-- **Abstractive summarization:** Generates a summary that doesn't use the same words as in the document but captures the main idea.
-
-- **Summary texts:** Abstractive summarization returns a summary for each contextual input range within the document. A long document can be segmented so multiple groups of summary texts can be returned with their contextual input range. 
-
-- **Contextual input range:** The range within the input document used to generate the summary text. 
+Microsoft's **Azure AI Speech** is another service that can be used to build natural language processing solutions. Azure AI Speech features include speech recognition and synthesis, real-time translations, conversation transcriptions, and more.
 
 ## Lab Overview
 
