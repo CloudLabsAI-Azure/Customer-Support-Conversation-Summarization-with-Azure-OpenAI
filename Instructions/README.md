@@ -8,7 +8,7 @@ In this hands-on lab, you’ll learn how to generate summaries of customer-agent
 
 ## Architechture Diagram
 
-![Architechture Diagram](media/architechture-diagram.png)
+![Architechture Diagram](../media/architechture-diagram.png)
 
 ## Understanding Azure's AI Language Service 
 
