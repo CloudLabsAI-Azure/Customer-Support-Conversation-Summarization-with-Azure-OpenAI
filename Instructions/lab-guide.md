@@ -1,6 +1,6 @@
 # Hands-On Lab - Customer Support Conversation Summarization with Azure OpenAI
 
-## Task 01 - Provision Azure AI Language Service
+## Task 01 - Provision Azure AI Language service
 
 1. In the Azure portal, search for **Azure AI services (1)** and select **Azure AI Services (2)** from the services list.
 
@@ -116,7 +116,7 @@
 
     ![](../media/json-tab.png)
 
-## Task 03 - Provision Azure AI Speech Service
+## Task 03 - Provision Azure AI Speech service
 
 1. In the Azure portal, search for **Azure AI** and select **Azure AI Services** from the services list.
 
@@ -140,7 +140,7 @@
 
    ![](../media/speech-go-to-resource.png)
 
-## Task 04 - Analyze sentences and Call Summary of audio recordings in Azure AI Speech Studio
+## Task 04 - Analyze sentences and call summary of audio recordings in Azure AI Speech Studio
 
 1. In the Azure portal, on the resource group blade, navigate to the **speech-service-DID** Speech service.
 
