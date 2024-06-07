@@ -191,7 +191,14 @@
 
     ![](../media/upload-call-summary.png)
 
+## Review
 
+In this hands-on lab, you have accomplished the following:
+
+- Provisioned Azure AI Language service
+- Summarized the customer-agent conversation in Azure AI Language Studio
+- Provisioned Azure AI Speech service
+- Analyzed sentences and call summary of audio recordings in Azure AI Speech Studio
 
 
 
