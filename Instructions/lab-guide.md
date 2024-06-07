@@ -19,10 +19,10 @@
    - Subscription: Select your Default Subscription
    - Resource group: Select your Default Resource group
    - Region: Select your Default Region
-   - Name: language-service-DID
+   - Name: language-service-<inject key="Deployment-ID" enableCopy="false"/>
    - Pricing tier: Free Tier (F0)
    - New/Existing storage account: New storage account
-   - Storage account name: openaistorageDID
+   - Storage account name: openaistorage<inject key="Deployment-ID" enableCopy="false"/>
    - Storage account type: Standard LRS
    - Check the box for the Responsible AI Notice
 
@@ -36,7 +36,7 @@
 
 ## Task 02 - Summarize the customer-agent conversation in Azure AI Language Studio
 
-1. In the Azure portal, on the resource group blade, navigate to the **language-service-DID** Language service.
+1. In the Azure portal, on the resource group blade, navigate to the **language-service-<inject key="Deployment-ID" enableCopy="false"/>** Language service.
 
    ![](../media/navigate-language-service.png)
 
@@ -131,7 +131,7 @@
    - Subscription: Select your Default Subscription
    - Resource group: Select your Default Resource Group
    - Region: Select your Default Region
-   - Name: speech-service-DID
+   - Name: speech-service-<inject key="Deployment-ID" enableCopy="false"/>
    - Pricing tier: Free Tier (F0)
   
    ![](../media/speech-service-create.png)
@@ -142,7 +142,7 @@
 
 ## Task 04 - Analyze sentences and call summary of audio recordings in Azure AI Speech Studio
 
-1. In the Azure portal, on the resource group blade, navigate to the **speech-service-DID** Speech service.
+1. In the Azure portal, on the resource group blade, navigate to the **speech-service-<inject key="Deployment-ID" enableCopy="false"/>** Speech service.
 
    ![](../media/navigate-speech-service.png)
 
