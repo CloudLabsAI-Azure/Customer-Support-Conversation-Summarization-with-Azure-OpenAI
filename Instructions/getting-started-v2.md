@@ -30,18 +30,6 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
   ![](../media/resourses.png)
 
-## Lab Duration Extension
-
-1. To extend the duration of the lab, kindly click the **Hourglass** icon in the top right corner of the lab environment.
-
-   ![](../media/ext.png)
-
-   >**Note:** You will get the Hourglass icon when 10 minutes are remaining in the lab.
-
-1. Click **OK** to extend your lab duration.
-
-   ![](../media/ext01.png)
-
 ## Let's Get Started with Azure Portal
  
 1. On your virtual machine, click on the **Azure Portal** icon as shown below:
