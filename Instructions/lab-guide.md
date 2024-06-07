@@ -16,15 +16,15 @@
   
 4. On the **Create Language** blade, under the **Basics** tab, enter the following details, click on **Review + create** and then **Create**.
 
-   - Subscription: Select your Default Subscription
-   - Resource group: Select your Default Resource group
-   - Region: Select your Default Region
-   - Name: language-service-<inject key="Deployment-ID" enableCopy="false"/>
-   - Pricing tier: Free Tier (F0)
-   - New/Existing storage account: New storage account
-   - Storage account name: openaistorage<inject key="Deployment-ID" enableCopy="false"/>
-   - Storage account type: Standard LRS
-   - Check the box for the Responsible AI Notice
+   - Subscription: **Select your Default Subscription (1)**
+   - Resource group: **Select your Default Resource group (2)**
+   - Region: **Select your Default Region (3)**
+   - Name: **language-service-<inject key="Deployment-ID" enableCopy="false"/> (4)**
+   - Pricing tier: **Free Tier (F0) (5)**
+   - New/Existing storage account: **New storage account (6)**
+   - Storage account name: **openaistorage<inject key="Deployment-ID" enableCopy="false"/> (7)**
+   - Storage account type: **Standard LRS (8)**
+   - **Check the box for the Responsible AI Notice (9)**
 
    ![](../media/azure-ai-language-create-01.png)
 
@@ -128,13 +128,13 @@
   
 3. On the **Create Speech Services** blade, under the **Basics** tab, enter the following details, click on **Review + create** and then **Create**.
 
-   - Subscription: Select your Default Subscription
-   - Resource group: Select your Default Resource Group
-   - Region: Select your Default Region
-   - Name: speech-service-<inject key="Deployment-ID" enableCopy="false"/>
-   - Pricing tier: Free Tier (F0)
+   - Subscription: **Select your Default Subscription (1)**
+   - Resource group: **Select your Default Resource Group (2)**
+   - Region: **Select your Default Region (3)**
+   - Name: **speech-service-<inject key="Deployment-ID" enableCopy="false"/> (4)**
+   - Pricing tier: **Free Tier (F0) (5)**
   
-   ![](../media/speech-service-create.png)
+   ![](../media/speech-service-create-01.png)
 
 6. Wait for the deployment to succeed. Once the deployment is succeeded, click on **Go to resource**.
 
@@ -171,3 +171,35 @@
 8. Once you have analyzed the sentences between the two speakers, click on the **Call summary** to view the **Issue summary** and the **Resolution summary** fo the conversation.
 
    ![](../media/call-summary.png)
+
+9. Now, let's try uploading custom audio recordings to analyze and fetch the call summary. In the **Try it out > Upload your own data** tab and configure the following details:
+
+    - Resource for Speech service: **speech-service-<inject key="Deployment-ID" enableCopy="false"/> (1)**
+    - Resource for Language service: **language-service-<inject key="Deployment-ID" enableCopy="false"/> (2)**
+    - Acknowledge the checkbox **(3)**
+    - Click on **Browse files... (4)** to upload the custom audio files
+  
+    ![](../media/upload-own-data.png)
+
+10. Navigate to **C:\LabFiles\Recordings** folder and upload the audio recordings individually and wait for the upload to complete.
+
+    ![](../media/audio-files.png)
+
+11. Click on the **Play** button to listen to the audio file, analyze the sentences **(1)** and the call summary **(2)** of the uploaded audio recordings.
+
+    ![](../media/upload-analyze-sentences.png)
+
+    ![](../media/upload-call-summary.png)
+
+
+
+
+
+
+
+
+
+
+
+
+   
