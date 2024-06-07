@@ -1,4 +1,4 @@
-# Getting Started with your Customer Support Conversation Summarization with Azure OpenAI Workshop
+# Getting Started with your Lab Environment
  
 Welcome to your Customer Support Conversation Summarization with Azure OpenAI Workshop! We've prepared a seamless environment for you to explore and learn about Azure services. Let's begin by making the most of this experience:
  
