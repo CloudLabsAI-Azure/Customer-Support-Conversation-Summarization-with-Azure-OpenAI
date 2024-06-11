@@ -20,7 +20,7 @@
    - Resource group: **Select your Default Resource group (2)**
    - Region: **Select your Default Region (3)**
    - Name: **language-service-<inject key="Deployment-ID" enableCopy="false"/> (4)**
-   - Pricing tier: **Free Tier (F0) (5)**
+   - Pricing tier: **S (1 k Calls per minute) (5)**
    - New/Existing storage account: **New storage account (6)**
    - Storage account name: **openaistorage<inject key="Deployment-ID" enableCopy="false"/> (7)**
    - Storage account type: **Standard LRS (8)**
@@ -132,7 +132,7 @@
    - Resource group: **Select your Default Resource Group (2)**
    - Region: **Select your Default Region (3)**
    - Name: **speech-service-<inject key="Deployment-ID" enableCopy="false"/> (4)**
-   - Pricing tier: **Free Tier (F0) (5)**
+   - Pricing tier: **Standard S0 (5)**
   
    ![](../media/speech-service-create-01.png)
 
