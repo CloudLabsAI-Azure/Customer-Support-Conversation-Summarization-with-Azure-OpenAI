@@ -34,12 +34,7 @@
 
    ![](../media/go-to-rg-01.png)
 
-     <validation step="f85ecad5-8ad9-4288-8696-abbae27b058e" />
-
-     >**Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-     > - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
-     > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-     > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+   <validation step="f85ecad5-8ad9-4288-8696-abbae27b058e" />
 
 
 ## Task 02 - Summarize the customer-agent conversation in Azure AI Language Studio
@@ -148,13 +143,7 @@
 
    ![](../media/speech-go-to-resource.png)
 
-     <validation step="fdc5b686-2e7b-43db-ba7a-f69384575b3e" />
-
-     >**Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-     > - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
-     > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-     > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
-
+   <validation step="fdc5b686-2e7b-43db-ba7a-f69384575b3e" />
 
 ## Task 04 - Analyze sentences and call summary of audio recordings in Azure AI Speech Studio
 
