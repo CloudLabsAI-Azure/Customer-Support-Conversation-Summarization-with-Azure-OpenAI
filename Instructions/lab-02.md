@@ -1,4 +1,4 @@
-## Task 03 - Provision Azure AI Speech service
+## Task 1 - Provision Azure AI Speech service
 
 1. In the Azure portal, search for **Azure AI** and select **Azure AI Services** from the services list.
 
@@ -24,7 +24,7 @@
 
    <validation step="fdc5b686-2e7b-43db-ba7a-f69384575b3e" />
 
-## Task 04 - Analyze sentences and call summary of audio recordings in Azure AI Speech Studio
+## Task 2 - Analyze sentences and call summary of audio recordings in Azure AI Speech Studio
 
 1. In the Azure portal, on the resource group blade, navigate to the **speech-service-<inject key="Deployment-ID" enableCopy="false"/>** Speech service.
 
