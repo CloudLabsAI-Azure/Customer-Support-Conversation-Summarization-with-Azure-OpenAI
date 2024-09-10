@@ -1,4 +1,4 @@
-## Task 01 - Provision Azure AI Language service
+## Task 1 - Provision Azure AI Language service
 
 1. In the Azure portal, search for **Azure AI services (1)** and select **Azure AI Services (2)** from the services list.
 
@@ -35,7 +35,7 @@
    <validation step="f85ecad5-8ad9-4288-8696-abbae27b058e" />
 
 
-## Task 02 - Summarize the customer-agent conversation in Azure AI Language Studio
+## Task 2 - Summarize the customer-agent conversation in Azure AI Language Studio
 
 1. In the Azure portal, on the resource group blade, navigate to the **language-service-<inject key="Deployment-ID" enableCopy="false"/>** Language service.
 
