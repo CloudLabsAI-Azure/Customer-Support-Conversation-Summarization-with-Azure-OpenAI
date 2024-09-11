@@ -1,3 +1,5 @@
+# Lab 01: Summarize Conversations in Azure AI Language Studio
+
 ## Task 1 - Provision Azure AI Language service
 
 1. In the Azure portal, search for **Azure AI services (1)** and select **Azure AI Services (2)** from the services list.
