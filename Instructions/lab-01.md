@@ -1,4 +1,4 @@
-# Lab 01: Summarize Conversations in Azure AI Language Studio
+# Lab 01: Summarize the customer-agent conversation in Azure AI Language Studio
 
 ## Task 1 - Provision Azure AI Language service
 
