@@ -1,5 +1,18 @@
 # Lab 02: Analyze sentences and call summary of audio recordings in Azure AI Speech Studio
 
+### Estimated Duration: 60 minutes
+
+## Overview
+
+In Azure AI Speech Studio, analyzing sentences and summarizing call summaries from audio recordings involves converting spoken content into text using speech-to-text technology, then processing and condensing the transcribed text to extract key information and insights from the conversation.
+
+## Lab Objectives
+
+You will be able to complete the following tasks:
+
+- Task 1 - Provision Azure AI Speech service
+- Task 2 - Analyze sentences and call summary of audio recordings in Azure AI Speech Studio
+
 ## Task 1 - Provision Azure AI Speech service
 
 1. In the Azure portal, search for **Azure AI** and select **Azure AI Services** from the services list.
@@ -76,3 +89,9 @@
     ![](../media/upload-analyze-sentences.png)
 
     ![](../media/upload-call-summary.png)
+
+## Summary
+
+In this lab, you provisioned the Azure AI Speech service and analyzed sentences and call summaries from audio recordings in Azure AI Speech Studio.
+
+### You have successfully completed the lab
