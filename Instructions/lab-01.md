@@ -1,5 +1,18 @@
 # Lab 01: Summarize the customer-agent conversation in Azure AI Language Studio
 
+### Estimated Duration: 60 minutes
+
+## Overview
+
+Summarizing customer-agent conversations in Azure AI Language Studio involves using natural language processing tools to extract and condense key information from dialogues, providing a clear and concise summary of the interaction. This helps in understanding and reviewing communication effectively.
+
+## Lab Objectives
+
+You will be able to complete the following tasks:
+
+- Task 1 - Provision Azure AI Language service
+- Task 2 - Summarize the customer-agent conversation in Azure AI Language Studio
+
 ## Task 1 - Provision Azure AI Language service
 
 1. In the Azure portal, search for **Azure AI services (1)** and select **Azure AI Services (2)** from the services list.
@@ -118,3 +131,9 @@
 11. You can also review the extractive and abstractive results in JSON foramt on the **JSON** tab.
 
     ![](../media/json-tab.png)
+
+## Summary
+
+In this lab, you provisioned the Azure AI Language service and summarized the customer-agent conversation in Azure AI Language Studio.
+
+### You have successfully completed the lab
