@@ -10,7 +10,7 @@ Most businesses provide customer service support to help customers with product 
 
 This lab is designed to equip participants with hands-on experience to use Azure OpenAI to summarize customer support conversations, extracting key insights and main points from the interactions.
 
-- **Summarize the customer-agent conversation in Azure AI Language Studio:** use Azure AI Language Studio to generate concise summaries of customer-agent conversations for improved understanding and analysis.
+- **Summarize the customer-agent conversation in Azure AI Language Studio:** Use Azure AI Language Studio to generate concise summaries of customer-agent conversations for improved understanding and analysis.
   
 - **Analyze sentences and call summary of audio recordings in Azure AI Speech Studio:** Analyze sentences and generate call summaries from audio recordings using Azure AI Speech Studio.
 
