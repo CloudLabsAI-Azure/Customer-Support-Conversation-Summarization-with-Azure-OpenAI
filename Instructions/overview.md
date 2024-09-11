@@ -12,20 +12,35 @@ In this hands-on lab, you’ll learn how to generate summaries of customer-agent
 
 This lab is designed to equip participants with hands-on experience to use Azure OpenAI to summarize customer support conversations, extracting key insights and main points from the interactions.
 
-- **Summarize the customer-agent conversation in Azure AI Language Studio:**
-- **Analyze sentences and call summary of audio recordings in Azure AI Speech Studio:**
+- **Summarize the customer-agent conversation in Azure AI Language Studio:** use Azure AI Language Studio to generate concise summaries of customer-agent conversations for improved understanding and analysis.
+  
+- **Analyze sentences and call summary of audio recordings in Azure AI Speech Studio:** Analyze sentences and generate call summaries from audio recordings using Azure AI Speech Studio.
 
 ## Prerequisites
 
-Participants should have: 
+Participants should have:
+
+- **Basic Understanding of AI and NLP:** Familiarity with natural language processing concepts and AI fundamentals.
+- **Azure Subscription:** An active Azure subscription to access and use Azure AI services.
+- **Access to Azure AI Language Studio and Azure AI Speech Studio:** Permissions and access to these Azure services to perform the tasks.
+- **Familiarity with Azure Portal:** Basic knowledge of navigating the Azure Portal to provision and manage services.
+- **Understanding of Speech-to-Text and Text Summarization:** Knowledge of how speech-to-text conversion and text summarization work.
+- **Basic Knowledge of Audio and Text Data Processing:** Understanding the processes involved in handling and analyzing audio and text data.
 
 ## Architechture
+
+In this hands-on lab, you will provision Azure AI Language and Speech services, use them to summarize customer-agent conversations in Azure AI Language Studio, and analyze sentences and call summaries from audio recordings in Azure AI Speech Studio.
 
 ## Architechture Diagram
 
 ![Architechture Diagram](../media/architechture-diagram.png)
 
 ## Explanation of Components
+
+The architecture for this lab involves several key components:
+
+- **Azure AI Language service:** Azure AI Language service provides advanced text analytics, including sentiment analysis, entity recognition, and language understanding to extract actionable insights from text.
+- **Azure AI Speech service:** Azure AI Speech service converts spoken language into text and provides features for speech recognition, transcription, and natural language understanding.
 
 ## Getting Started with the Lab
  
