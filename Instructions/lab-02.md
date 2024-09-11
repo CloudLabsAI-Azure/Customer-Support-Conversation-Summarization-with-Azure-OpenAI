@@ -1,3 +1,5 @@
+# Lab 02: Analyze sentences and call summary of audio recordings in Azure AI Speech Studio
+
 ## Task 1 - Provision Azure AI Speech service
 
 1. In the Azure portal, search for **Azure AI** and select **Azure AI Services** from the services list.
