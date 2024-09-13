@@ -35,7 +35,7 @@ In this hands-on lab, you will provision Azure AI Language and Speech services, 
 
 ## Explanation of Components
 
-The architecture for this lab involves several key components:
+The architecture for this lab involves the following key components:
 
 - **Azure AI Language service:** Azure AI Language service provides advanced text analytics, including sentiment analysis, entity recognition, and language understanding to extract actionable insights from text.
 - **Azure AI Speech service:** Azure AI Speech service converts spoken language into text and provides features for speech recognition, transcription, and natural language understanding.
