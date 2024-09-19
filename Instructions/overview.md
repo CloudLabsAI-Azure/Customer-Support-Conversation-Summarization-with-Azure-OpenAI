@@ -105,6 +105,8 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 1. If you see the pop-up Action Required, click Ask Later.
 
    ![](../media/asklater.png)
+
+   >**NOTE:** Do not enable MFA, select **Ask Later**.
      
 1. If you see the pop-up **Stay Signed in?**, select **No**.
 
