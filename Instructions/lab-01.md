@@ -2,8 +2,6 @@
 
 ### Estimated Duration: 60 minutes
 
-## Overview
-
 Summarizing customer-agent conversations in Azure AI Language Studio involves using natural language processing tools to extract and condense key information from dialogues, providing a clear and concise summary of the interaction. This helps in understanding and reviewing communication effectively.
 
 ## Lab Objectives
