@@ -2,8 +2,6 @@
 
 ### Estimated Duration: 60 minutes
 
-## Overview
-
 In Azure AI Speech Studio, analyzing sentences and summarizing call summaries from audio recordings involves converting spoken content into text using speech-to-text technology, then processing and condensing the transcribed text to extract key information and insights from the conversation.
 
 ## Lab Objectives
