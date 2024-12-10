@@ -7,7 +7,7 @@
         "BaseURL": "https://github.com/CloudLabsAI-Azure/Customer-Support-Conversation-Summarization-with-Azure-OpenAI/tree/main",
         "Files": [
             {
-                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Customer-Support-Conversation-Summarization-with-Azure-OpenAI/main/Instructions/overview.md",
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Customer-Support-Conversation-Summarization-with-Azure-OpenAI/refs/heads/main/Instructions/login-azure.md",
                 "Order": 1
             }
         ]
