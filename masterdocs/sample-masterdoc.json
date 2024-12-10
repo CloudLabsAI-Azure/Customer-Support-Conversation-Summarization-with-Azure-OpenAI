@@ -1,0 +1,15 @@
+
+
+[
+    {
+        "Name": "Customer Support Conversation Summarization with Azure OpenAI",
+        "Language": "English",
+        "BaseURL": "https://github.com/CloudLabsAI-Azure/Customer-Support-Conversation-Summarization-with-Azure-OpenAI/tree/main",
+        "Files": [
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Customer-Support-Conversation-Summarization-with-Azure-OpenAI/main/Instructions/overview.md",
+                "Order": 1
+            }
+        ]
+    }
+]
