@@ -20,7 +20,7 @@
 
 1. On the **More information required** pop-up, click on **Next** to setup Multi-factor authentication.
 
-   ![](../media/setuo-mfa.png)
+   ![](../media/setup-mfa.png)
 
 1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
 
