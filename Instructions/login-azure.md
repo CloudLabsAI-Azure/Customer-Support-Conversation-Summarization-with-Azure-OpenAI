@@ -15,14 +15,12 @@
    * **Password**: <inject key="AzureAdUserPassword"></inject>
    
       ![](../media/user-pass.png "Enter Password")
-
-1. If you see the pop-up Action Required, click **Ask Later**.
-
-   ![](../media/asklater.png)
-
-   >**NOTE:** Do not enable MFA, select **Ask Later**.
      
 1. If you see the pop-up **Stay Signed in?**, select **No**.
+
+1. On the **More information required** pop-up, click on **Next** to setup Multi-factor authentication.
+
+   ![](../media/setuo-mfa.png)
 
 1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
 
