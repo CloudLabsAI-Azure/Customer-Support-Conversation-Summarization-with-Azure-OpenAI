@@ -1,8 +1,8 @@
 ## Let's Get Started with Azure Portal
  
-1. On your virtual machine, click on the **Azure Portal** icon as shown below:
+1. In your lab environment, navigate to **Environment** tab and click on the **Microsoft Azure** button to be redirected to Azure portal.
  
-    ![](../media/azure-portal-edge.png)
+    ![](../media/azure-portal-environment-tab.png)
 
 1. On the **Sign in to Microsoft Azure** tab you will see the login screen, in that enter the following email/username, and click on **Next**. 
 
